@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <title>APP | alejandroalsa.es</title>
+    <link rel="stylesheet" href="static/css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="static/img/icon.png" type="image/x-icon">
+  </head>
+  <body>
+    <div class="container disable">
+        <h2>Editor de imágenes  simple</h2>
+        <section>
+            <div class="wrapper">
+                <div class="editor-panel">
+                    <div class="filter">
+                        <label class="title">Filtros</label>
+                        <div class="options">
+                            <button id="brightness" class="active">Brillo</button>
+                            <button id="saturation">Saturación</button>
+                            <button id="inversion">Invertir</button>
+                            <button id="grayscale">Grises</button>
+                        </div>
+                        <div class="slider">
+                            <div class="filter-info">
+                                <p class="name">Brillo</p>
+                                <p class="value">100%</p>
+                            </div>
+                            <input type="range" value="100" min="0" max="200">
+                        </div>
+                    </div>
+                    <div class="rotate">
+                        <label class="title">Girar y voltear</label>
+                        <div class="options">
+                            <button id="left"><img src="static/img/rotate-left.png"></button>
+                            <button id="right"><img src="static/img/rotate-right.png"></button>
+                            <button id="horizontal"><img src="static/img/horizontal-flip.png"></button>
+                            <button id="vertical"><img src="static/img/flip.png"></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="preview-img">
+                    <img class="choose-img-2" src="static/img/upload.png" alt="preview-img">
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="controls">
+                <button class="reset-filter">Reiniciar Filtros</button>
+                <div class="row">
+                    <input type="file" class="file-input" accept="image/*" hidden>
+                    <button class="choose-img">Seleccionar Imagen</button>
+                    <button class="save-img">Guardar Imagen</button>
+                </div>
+            </div>
+        </section>
+    </div>
+    <script src="static/js/script.js"></script>
+  </body>
+</html>
