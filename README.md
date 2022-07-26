@@ -1,5 +1,5 @@
 <h1>APP | alejandroalsa</h1>
-<p>Editor de imagenes online</p>
+<p>Editor de imagenes online <a href="https://alejandroalsa.es/apps/editor-imagenes/" target="_blank">Ir</a> </p>
 <h2>Descripción</h2>
 <p>Editor de imágenes online no es más que una pequeña aplicación web para editar imágenes de una forma sencilla y rápida.</p>
 <p>Con el podrás:</p>
@@ -15,9 +15,9 @@
 <img src="https://user-images.githubusercontent.com/67869168/181101816-14c975e8-4934-46fd-a262-ae747f5f34d7.PNG">
 <img src="https://user-images.githubusercontent.com/67869168/181101995-bed119e3-5d29-4cd1-87d9-28e8830dfc19.PNG">
 <h2>Contacto</h2>
-<h3><img src="https://user-images.githubusercontent.com/67869168/181102759-946c4f7d-05a3-4c79-aa1a-83fb9c87dd67.png"> E-Mail => <a href="">alejandro-alfaro-hwh@hwh.es</a></h3>
-<h3><img src="https://user-images.githubusercontent.com/67869168/181104886-7680762d-8efc-4ed2-8d55-60d85aa38f92.png"> Web => <a href="https://alejandroalsa.es#contact">alejandroalsa.es</a></h3>
-<h3><img src="https://user-images.githubusercontent.com/67869168/181104892-b634e33f-db2c-48d5-9af1-84e6bda20089.png"> GitHub => <a href="https://github.com/LNEX-ESP">LNEX-ESP</a></h3>
-<h3><img src="https://user-images.githubusercontent.com/67869168/181104897-baa6311e-1f00-4a42-a8d3-0c7d8b31f031.png"> Instagram => <a href="https://instagram.com/alex._._.esp">alex._._.esp</a></h3>
-<h3><img src="https://user-images.githubusercontent.com/67869168/181104899-34ba152e-8a34-4f38-b6dd-6e6dd7acbea0.png"> Twitter => <a href="https://twitter.com/LLALEX_ES">LLALEX_ES</a></h3>
-<h3><img src="https://user-images.githubusercontent.com/67869168/181104903-1a0667a6-309e-44b0-a201-274755fb1c8c.png"> YouTube => <a href="https://youtube.com/channel/UCsOxhi5r2A0MBscM7Tk5FeQ">LLALEX</a></h3>
+<h3><img src="https://user-images.githubusercontent.com/67869168/181102759-946c4f7d-05a3-4c79-aa1a-83fb9c87dd67.png"> E-Mail => <a href="mailto:alejandro-alfaro-hwh@hwh.es" target="_blank">alejandro-alfaro-hwh@hwh.es</a></h3>
+<h3><img src="https://user-images.githubusercontent.com/67869168/181104886-7680762d-8efc-4ed2-8d55-60d85aa38f92.png"> Web => <a href="https://alejandroalsa.es#contact" target="_blank">alejandroalsa.es</a></h3>
+<h3><img src="https://user-images.githubusercontent.com/67869168/181104892-b634e33f-db2c-48d5-9af1-84e6bda20089.png"> GitHub => <a href="https://github.com/LNEX-ESP" target="_blank">LNEX-ESP</a></h3>
+<h3><img src="https://user-images.githubusercontent.com/67869168/181104897-baa6311e-1f00-4a42-a8d3-0c7d8b31f031.png"> Instagram => <a href="https://instagram.com/alex._._.esp" target="_blank">alex._._.esp</a></h3>
+<h3><img src="https://user-images.githubusercontent.com/67869168/181104899-34ba152e-8a34-4f38-b6dd-6e6dd7acbea0.png"> Twitter => <a href="https://twitter.com/LLALEX_ES" target="_blank">LLALEX_ES</a></h3>
+<h3><img src="https://user-images.githubusercontent.com/67869168/181104903-1a0667a6-309e-44b0-a201-274755fb1c8c.png"> YouTube => <a href="https://youtube.com/channel/UCsOxhi5r2A0MBscM7Tk5FeQ" target="_blank">LLALEX</a></h3>
