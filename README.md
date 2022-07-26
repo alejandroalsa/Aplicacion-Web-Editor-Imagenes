@@ -2,7 +2,7 @@
 <p>Editor de imagenes online</p>
 <h2>Descripción</h2>
 <p>Editor de imágenes online no es más que una pequeña aplicación web para editar imágenes de una forma sencilla y rápida.</p>
-<p>Con el podras:</p>
+<p>Con el podrás:</p>
 <ul>
     <li>Editar el Brillo <img src="https://user-images.githubusercontent.com/67869168/181100721-ab1b61b8-b9a9-4329-aed0-3a2ac263ad97.png"></li>
     <li>Editar la Saturación <img src="https://user-images.githubusercontent.com/67869168/181101029-e89fb5f8-7e1b-4df2-92e5-5b2abfe91004.png"></li>
